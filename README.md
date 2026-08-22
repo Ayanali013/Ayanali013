@@ -23,6 +23,10 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Ayanali013&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+## 🔥 My GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AyanAli&theme=dark)](https://git.io/streak-stats)
         
           
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ayanali013&theme=dark)](https://git.io/streak-stats)<br/>
