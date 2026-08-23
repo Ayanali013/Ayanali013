@@ -38,6 +38,8 @@
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ayanali013&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+
 [![](https://komarev.com/ghpvc/?username=Ayanali013&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
