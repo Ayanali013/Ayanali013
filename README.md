@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🎓 Computer Science Engineering student from India.<br>- 💻 Passionate about Full Stack Development and building impactful web applications.<br>- 🌱 Currently exploring AI, Machine Learning, and Data Science.<br>- 🧠 Continuously improving my problem-solving and software development skills.<br>- 🚀 Always learning, building, and taking on new challenges.<br>- 🤝 Open to collaborating on open-source and innovative projects.<br>- 🎯 Aspiring Software Engineer focused on creating scalable and user-friendly applications.
+- 🎓 Computer Science Engineering student from India.<br>- 💻 Passionate about Full Stack Development and building impactful web applications.<br>- 🌱 Currently exploring AI, Machine Learning, and Data Science.<br>- 🧠 Continuously improving my problem-solving and software development skills.<br>- 🚀 Always learning, building, and taking on new challenges.<br>- 🤝 Open to collaborating on open-source and innovative projects.
 
 
 ## 🌐 Socials:
