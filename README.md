@@ -32,7 +32,7 @@
           
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ayanali013&theme=dark)](https://git.io/streak-stats)<br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ayanali013&theme=dark)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Ayanali013&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)<br/>
  
   ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ayanali013&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
