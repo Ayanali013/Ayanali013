@@ -44,6 +44,10 @@
  
   ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ayanali013&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+
+  ![](./profile-3d-contrib/profile-gitblock.svg)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
