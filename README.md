@@ -3,7 +3,7 @@
 - 🎓 Computer Science Engineering student from India.<br>- 💻 Passionate about Full Stack Development and building impactful web applications.<br>- 🌱 Currently exploring AI, Machine Learning, and Data Science.<br>- 🧠 Continuously improving my problem-solving and software development skills.<br>- 🚀 Always learning, building, and taking on new challenges.<br>- 🤝 Open to collaborating on open-source and innovative projects.
 
 
-## 🌐 Socials:
+## 🌐  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayan-ali-7a7b54291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
